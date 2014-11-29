@@ -47,7 +47,7 @@ On Arduino....
 
 #define powerPin 10 // Blue LED
 #define failPin 11 // Red LED
-#define passPin 12 // Green LED
+#define passPin 12 // Grenn LED
 #define doorPin 9 // Relay 
 #define alarmPin 13 // Alarm
 
