@@ -1,18 +1,23 @@
 
 create a new repository on the command line
 
-touch README.md
-git init
-git add README.md
-git commit -m "first commit"
-git remote add origin https://github.com/jmhdz/Test.git
-git push -u origin master
+	touch README.md
+
+	git init
+
+	git add README.md
+
+	git commit -m "first commit"
+
+	git remote add origin https://github.com/jmhdz/Test.git
+
+	git push -u origin master
 
 push an existing repository from the command line
 
-git remote add origin https://github.com/jmhdz/Test.git
-git push -u origin master
+	git remote add origin https://github.com/jmhdz/Test.git
 
-import code from another repository
+	git push -u origin master
 
-You can initialize this repository with code from a Subversion, Mercurial, or TFS project.
+
+
